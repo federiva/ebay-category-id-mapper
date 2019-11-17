@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* This bot has been built on Ubuntu 18.04 using Python 3.7.5 and it has not been tested on other OSS. 
+* This class has been written on Ubuntu 18.04 using Python 3.7.5 and it has not been tested on other OSS. 
 * Dependencies used are listed in the requirements.txt file.  
 * Data used is obtained from Ebay and sligthly modified for performance, memory and readability
 
